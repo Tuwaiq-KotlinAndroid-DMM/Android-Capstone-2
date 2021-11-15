@@ -198,5 +198,6 @@ You **should**:
 - **[Retrofit]**(https://square.github.io/retrofit/)
 - **[Git Team Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)**
 - **[Git Team Cheatsheet](https://jameschambers.co/writing/git-team-workflow-cheatsheet/)**
+- **[Git Team Cheatsheet - Instructions](https://github.com/Tuwaiq-KotlinAndroid-DMM/GIT-Cheat-Sheet/tree/main)**
 
 
