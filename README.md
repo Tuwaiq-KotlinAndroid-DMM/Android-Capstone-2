@@ -172,7 +172,7 @@ You **should**:
 -   **Read the docs for whatever technologies / frameworks / API’s you use**.
 -   **Write pseudocode before you write actual code.** Thinking through the
     logic of something helps.
--   **Write your code DRY** and **build your APIs RESTful**.
+-   **Write your code DRY** and **KISS**.
 -   **Commit early, commit often.** Don’t be afraid to break something because
     you can always go back in time to a previous version.
 -   **Keep user stories small and well-defined**, and remember – user stories
