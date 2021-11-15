@@ -192,10 +192,10 @@ You **should**:
 - **[Android Documentation](https://developer.android.com/docs)**
 - **[GitHub Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)** _(for working with Markdown)_
 - **[Model–view–viewmodel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)**
-- **[Kotlin coroutines on Android]**(https://developer.android.com/kotlin/coroutines?gclid=Cj0KCQiAhMOMBhDhARIsAPVml-EX2YIvJpZqKGPyLHmACAf5FLpnWILlglBxjs13g5ubYpxEcG_-7qcaAkYhEALw_wcB&gclsrc=aw.ds)**
-- **[Intents and Intent Filters]**(https://developer.android.com/guide/components/intents-filters)**
-- **[Understanding Android Core: Looper, Handler, and HandlerThread]**(https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)**
-- **[Retrofit]**(https://square.github.io/retrofit/)**
+- **[Kotlin coroutines on Android](https://developer.android.com/kotlin/coroutines?gclid=Cj0KCQiAhMOMBhDhARIsAPVml-EX2YIvJpZqKGPyLHmACAf5FLpnWILlglBxjs13g5ubYpxEcG_-7qcaAkYhEALw_wcB&gclsrc=aw.ds)**
+- **[Intents and Intent Filters](https://developer.android.com/guide/components/intents-filters)**
+- **[Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)**
+- **[Retrofit](https://square.github.io/retrofit/)**
 - **[Git Team Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)**
 - **[Git Team Cheatsheet](https://jameschambers.co/writing/git-team-workflow-cheatsheet/)**
 - **[Git Team Cheatsheet - Instructions](https://github.com/Tuwaiq-KotlinAndroid-DMM/GIT-Cheat-Sheet/tree/main)**
